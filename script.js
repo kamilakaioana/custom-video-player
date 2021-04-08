@@ -65,6 +65,3 @@ stop.addEventListener('click', stopVideo);
 
 progress.addEventListener('change', setVideoProgress);
 
-
-
-//continuar 00:22s
